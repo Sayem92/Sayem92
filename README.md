@@ -1,4 +1,4 @@
-![logo](https://github.com/Sayem92/Sayem92/blob/main/background-7055783_1920.png)
+![logo](https://github.com/Sayem92/Sayem92/blob/main/GitHub-Banner.png)
 <h1 align="center">Hi 👋, I'm Md. Sayem Miah</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh.</h3>
 
